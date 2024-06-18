@@ -1,0 +1,10 @@
+# dataset path
+train: ../dataset/data/images/train
+val: ../dataset/data/images/val
+test: ../dataset/data/images/test
+
+# number of classes
+nc: 9
+
+# class names
+names: ['transistor', 'other', 'potentiometer', 'diode', 'inductor', 'resistor', 'integrated_circuit', 'capacitor', 'switch_connector']
